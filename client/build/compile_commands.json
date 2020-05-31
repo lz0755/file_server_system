@@ -1,0 +1,37 @@
+[
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/client.c.o   -c /home/jia/code/netdisk/client/client.c",
+  "file": "/home/jia/code/netdisk/client/client.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/common.c.o   -c /home/jia/code/netdisk/client/common.c",
+  "file": "/home/jia/code/netdisk/client/common.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/config.c.o   -c /home/jia/code/netdisk/client/config.c",
+  "file": "/home/jia/code/netdisk/client/config.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/factory.c.o   -c /home/jia/code/netdisk/client/factory.c",
+  "file": "/home/jia/code/netdisk/client/factory.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/md5.c.o   -c /home/jia/code/netdisk/client/md5.c",
+  "file": "/home/jia/code/netdisk/client/md5.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/openssl_md5.c.o   -c /home/jia/code/netdisk/client/openssl_md5.c",
+  "file": "/home/jia/code/netdisk/client/openssl_md5.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/client/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/client.dir/work_que.c.o   -c /home/jia/code/netdisk/client/work_que.c",
+  "file": "/home/jia/code/netdisk/client/work_que.c"
+}
+]

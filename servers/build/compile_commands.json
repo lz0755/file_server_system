@@ -1,0 +1,52 @@
+[
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/command.c.o   -c /home/jia/code/netdisk/servers/command.c",
+  "file": "/home/jia/code/netdisk/servers/command.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/common.c.o   -c /home/jia/code/netdisk/servers/common.c",
+  "file": "/home/jia/code/netdisk/servers/common.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/config.c.o   -c /home/jia/code/netdisk/servers/config.c",
+  "file": "/home/jia/code/netdisk/servers/config.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/factory.c.o   -c /home/jia/code/netdisk/servers/factory.c",
+  "file": "/home/jia/code/netdisk/servers/factory.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/main.c.o   -c /home/jia/code/netdisk/servers/main.c",
+  "file": "/home/jia/code/netdisk/servers/main.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/md5.c.o   -c /home/jia/code/netdisk/servers/md5.c",
+  "file": "/home/jia/code/netdisk/servers/md5.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/mysql_cmd.c.o   -c /home/jia/code/netdisk/servers/mysql_cmd.c",
+  "file": "/home/jia/code/netdisk/servers/mysql_cmd.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/openssl_md5.c.o   -c /home/jia/code/netdisk/servers/openssl_md5.c",
+  "file": "/home/jia/code/netdisk/servers/openssl_md5.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/tcp_init.c.o   -c /home/jia/code/netdisk/servers/tcp_init.c",
+  "file": "/home/jia/code/netdisk/servers/tcp_init.c"
+},
+{
+  "directory": "/home/jia/code/netdisk/servers/build",
+  "command": "/bin/gcc-9   -g   -o CMakeFiles/servers.dir/work_que.c.o   -c /home/jia/code/netdisk/servers/work_que.c",
+  "file": "/home/jia/code/netdisk/servers/work_que.c"
+}
+]

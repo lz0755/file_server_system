@@ -1,0 +1,1 @@
+/bin/gcc-9 -g  -rdynamic CMakeFiles/client.dir/client.c.o CMakeFiles/client.dir/common.c.o CMakeFiles/client.dir/config.c.o CMakeFiles/client.dir/factory.c.o CMakeFiles/client.dir/md5.c.o CMakeFiles/client.dir/openssl_md5.c.o CMakeFiles/client.dir/work_que.c.o  -o client  -lpthread -lcrypt 
